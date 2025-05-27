@@ -1,3 +1,4 @@
+package exos;
 import java.util.Scanner;
 
 //Exercice 3 : Table de multiplication Objectif : Demander un nombre à l’utilisateur et afficher sa table de multiplication (de 1 à 10). 

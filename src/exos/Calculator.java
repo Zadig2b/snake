@@ -1,3 +1,5 @@
+package exos;
+
 import java.util.Scanner;
 // Exercice 4 : Calculatrice
 // Objectif : Créer un programme qui prend deux entiers et affiche leur somme, différence, produit et quotient.

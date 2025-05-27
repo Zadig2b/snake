@@ -1,3 +1,4 @@
+package exos;
 //Objectif : Écrire un programme qui affiche les nombres pairs de 1 à 20. 
 
 public class NombresPaires {
